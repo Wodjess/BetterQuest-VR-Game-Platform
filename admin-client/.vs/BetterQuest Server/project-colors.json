@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75de4e6a-35ec-4707-8d8b-db4228390853": {
+      "ProjectGuid": "75de4e6a-35ec-4707-8d8b-db4228390853",
+      "DisplayName": "BetterQuest Server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

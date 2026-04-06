@@ -1,0 +1,42 @@
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.exe
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.deps.json
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.runtimeconfig.json
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.runtimeconfig.dev.json
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.dll
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\ref\BetterQuest Server.dll
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.pdb
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\MainWindow.g.cs
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\App.g.cs
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server_MarkupCompile.cache
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server_MarkupCompile.lref
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\MainWindow.baml
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.g.resources
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.dll
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\ref\BetterQuest Server.dll
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.pdb
+C:\Users\Алексей\source\repos\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.genruntimeconfig.cache
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.exe
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.deps.json
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.runtimeconfig.json
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.runtimeconfig.dev.json
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.dll
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\ref\BetterQuest Server.dll
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\win-x64\BetterQuest Server.pdb
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\MainWindow.g.cs
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\App.g.cs
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server_MarkupCompile.cache
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server_MarkupCompile.lref
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\MainWindow.baml
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.g.resources
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.AssemblyInfoInputs.cache
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.AssemblyInfo.cs
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.csproj.CoreCompileInputs.cache
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.dll
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\ref\BetterQuest Server.dll
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.pdb
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\obj\Release\net5.0-windows\win-x64\BetterQuest Server.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGNFw4LtcCatDN3w2xgo/f4MqPbLSj0QOjPzbFQSYVel9OAq7V9irK6S963FV/BF5zF68d3AettOFOoe6gpyqA==",
+  "success": true,
+  "projectFilePath": "D:\\Важные файлы\\BetterQuest Server\\BetterQuest Server\\BetterQuest Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\wodjess\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

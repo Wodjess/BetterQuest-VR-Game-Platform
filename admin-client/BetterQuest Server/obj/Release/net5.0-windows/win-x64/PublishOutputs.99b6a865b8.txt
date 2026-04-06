@@ -1,0 +1,2 @@
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\publish\win-x64\BetterQuest Server.pdb
+D:\Важные файлы\BetterQuest Server\BetterQuest Server\bin\Release\net5.0-windows\publish\win-x64\BetterQuest Server.exe

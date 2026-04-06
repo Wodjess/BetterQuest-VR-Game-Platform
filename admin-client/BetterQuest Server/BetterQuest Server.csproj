@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>BetterQuest_Server</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Main_Logo %281%29.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Main_Logo (1).png" />
+  </ItemGroup>
+
+</Project>
